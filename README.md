@@ -1,153 +1,68 @@
-<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
-<h1 align="center">Hi 👋, I'm Arif</h1>
-<h3 align="center">Passionate full-stack developer skilled in PHP, Laravel, JavaScript, Vue.js, Nuxt.js, and adept in server
-management. Led 20+ impactful projects, crafting dynamic solutions to empower businesses. A strategic
-thinker, passionate leader, and mentor eager to drive innovation and fuel business growth.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devboyarif&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
-
-- 🔭 I’m currently working on <a href="https://dinnova.io" target="blank">Dinnova AG Bangladesh</a>
-- 🌱 I’m currently learning **Reactjs, Nodejs, Nextjs**
-- 👨‍💻 All of my projects are available at [https://devarif.co/portfolio](https://devarif.co)
-- 💪 My wakatime profile  [https://wakatime.com/@devboyarif](https://wakatime.com/@devboyarif)
-- ⭐ My Leetcode profile  [https://leetcode.com/devboyarif](https://leetcode.com/devboyarif) 
-- 📫 How to reach me **devboyarif@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devboyarif" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/devboyarif" height="30" width="40" /></a>
-<a href="https://fb.com/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devboyarif" height="30" width="40" /></a>
-  <a href="https://join.skype.com/invite/YVywcVEB1lql" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="devboyarif" height="30" width="40" /></a>
+---
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=120&section=header&text=Arif&fontSize=48&fontColor=ffffff&animation=fadeIn"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;Laravel+%7C+Vue+%7C+Nuxt+%7C+Cloud"
+  />
+</p>
 
-<table align="center">
-  <tr>
-      <td align="center" width="96">
-      <a href="#html5">
-        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>   
-    <td align="center" width="96">
-      <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
-      </a>
-      <br>CSS3
-    </td>
-     <td align="center" width="96">
-      <a href="#bootstrap">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-     <td align="center" width="96">
-      <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
-      </a>
-      <br>Javascript
-    </td>
-     <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
-      </a>
-      <br>Vue JS
-    </td>
-     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
-      </a>
-      <br>Nuxt JS
-    </td>      
-  </tr>
-  
-  <tr>
-     <td align="center" width="96">
-      <a href="#nuxtjs" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-      <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Laravel
-    </td>
-      <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>MySQL
-    </td>
-     <td align="center" width="96">
-      <a href="#ts">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-     <td align="center" width="96">
-        <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
-                alt="livewire" />
-        </a>
-        <br>Livewire
-    </td>
-    <td align="center" width="96">
-        <a href="#alpinejs">
-            <img src="https://cdn.worldvectorlogo.com/logos/alpine-13.svg" width="48"
-                height="48" alt="alpinejs" />
-        </a>
-        <br>Alpine JS
-    </td>   
-  </tr>
-   <tr>
-      <td align="center" width="96">
-      <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
-     <td align="center" width="96">
-      <a href="#digitalocean">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
-      </a>
-      <br>Digital Ocean
-    </td>
-      <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-      <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
-      </a>
-      <br>VS Code
-    </td>
-      <td align="center" width="96">
-      <a href="#postman" >
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Postman
-    </td>
-      <td align="center" width="96">
-      <a href="#vuepress" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>AWS
-    </td>
-  </tr>
-</table>
+
+## 🚀 About Me
+
+I’m a **passionate Full-Stack Developer** with strong expertise in **PHP, Laravel, JavaScript, Vue.js, and Nuxt.js**, along with solid experience in **server & cloud infrastructure**.
+
+* 🧠 Strategic problem solver with **20+ production-ready projects**
+* 🏗️ Architected **SaaS platforms, marketplaces, and enterprise systems**
+* 🤝 Team leader, mentor, and innovation-driven engineer
+* ⚡ Focused on **scalability, performance, and clean code**
 
 ---
-<details> 
-  <summary> ✌️ My GitHub Analytics </summary>
-<p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devboyarif&show_icons=true&locale=en&layout=compact&theme=radical" alt="devboyarif" /></p>
-<p>&nbsp;<img width="100%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=devboyarif&show_icons=true&locale=en&theme=radical" alt="devboyarif" /></p>
-<p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devboyarif&theme=radical" alt="devboyarif" /></p>
-</details>
 
+## 🏢 Currently
+
+* 🌱 Learning **React.js, Node.js, Next.js**
+* 👨‍💻 Portfolio: [**https://devarif.co**](https://devarif.co)
+* 💪 WakaTime: [**https://wakatime.com/@devboyarif**](https://wakatime.com/@devboyarif)
+* ⭐ LeetCode: [**https://leetcode.com/devboyarif**](https://leetcode.com/devboyarif)
+* 📫 Email: [**arif.fullstackdev@gmail.com**](mailto:arif.fullstackdev@gmail.com)
+
+---
+
+## 🌐 Connect With Me
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+HTML • CSS • Bootstrap • JavaScript • TypeScript • Vue.js • Nuxt.js • Alpine.js
+
+### Backend
+
+PHP • Laravel • Livewire • REST APIs • Authentication • Payment Systems
+
+### Database & DevOps
+
+MySQL • Ubuntu • Git • DigitalOcean • AWS • CI/CD
+
+### Tools
+
+VS Code • Postman • GitHub • WakaTime
+
+---
+
+## 📊 GitHub Analytics
+
+---
+
+### ✨ Philosophy
+
+> *“Great software is built at the intersection of clean code, strong architecture, and real business value.”*
+
+⭐ If you like my work, feel free to **follow**, **star**, or **collaborate**.
